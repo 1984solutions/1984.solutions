@@ -1,0 +1,12 @@
+# Site settings
+title: 1984.solutions
+email: hi@1984.solutions
+description:
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
